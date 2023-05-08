@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/relect.dir/main.o CMakeFiles/relect.dir/src/ClassFactory.o -o relect 
